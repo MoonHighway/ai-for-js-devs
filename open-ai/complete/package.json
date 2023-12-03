@@ -1,0 +1,17 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "keywords": [],
+  "author": "Moon Highway",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "langchain": "^0.0.199"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node -r dotenv/config script.js"
+  }
+}
