@@ -1,6 +1,6 @@
 # AI for JavaScript Developers
 
-This is a repo of materials for the React Server Components workshop taught by [Moon Highway](https://moonhighway.com).
+This is a repo of materials for the AI for JS Devs workshop taught by [Moon Highway](https://moonhighway.com).
 
 ## Instructor Info
 
