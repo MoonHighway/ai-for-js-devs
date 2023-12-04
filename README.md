@@ -13,4 +13,3 @@ Please get in touch any time with questions.
 
 - [Slides](https://www.canva.com/design/DAF1rISC47s/aaqizoJ3D1O4uDtqhbLy0A/view?utm_content=DAF1rISC47s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-## Articles, Talks, Related Resources
